@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MillionSongSubset",
+			"path": "../../../Downloads/MillionSongSubset"
+		},
+		{
+			"name": "Project",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
